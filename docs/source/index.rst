@@ -1,22 +1,124 @@
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+#######################
+CodeIgniter4 User Guide
+#######################
 
 .. toctree::
+    :includehidden:
+    :titlesonly:
 
-   usage
-   api
+    intro/index
+
+***************
+Getting Started
+***************
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    installation/index
+
+****************************
+Build Your First Application
+****************************
+
+.. toctree::
+    :includehidden:
+    :titlesonly:
+
+    tutorial/index
+
+*************************
+Overview & General Topics
+*************************
+
+.. toctree::
+    :titlesonly:
+
+    concepts/index
+
+.. toctree::
+    :titlesonly:
+
+    general/index
+
+****************
+Request Handling
+****************
+
+.. toctree::
+    :titlesonly:
+
+    incoming/index
+
+.. toctree::
+    :titlesonly:
+
+    outgoing/index
+
+******************
+Handling Databases
+******************
+
+.. toctree::
+    :titlesonly:
+
+    database/index
+
+.. toctree::
+    :titlesonly:
+
+    models/index
+
+.. toctree::
+    :titlesonly:
+
+    dbmgmt/index
+
+*******************
+Libraries & Helpers
+*******************
+
+.. toctree::
+    :titlesonly:
+
+    libraries/index
+
+.. toctree::
+    :titlesonly:
+
+    helpers/index
+
+***************
+Advanced Topics
+***************
+
+.. toctree::
+    :titlesonly:
+
+    testing/index
+
+.. toctree::
+    :titlesonly:
+
+    cli/index
+
+.. toctree::
+    :titlesonly:
+
+    extending/index
+
+.. toctree::
+    :hidden:
+
+    license
+    changelogs/index
+
+*****************
+Official Packages
+*****************
+
+.. toctree::
+    :titlesonly:
+
+    libraries/official_packages
